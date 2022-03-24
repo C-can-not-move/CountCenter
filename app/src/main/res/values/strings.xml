@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountCenter</string>
+    <string name="three_pt">+3 points</string>
+    <string name="two_pt">+2 points</string>
+    <string name="one_pt">free throw</string>
+    <string name="team_a">TeamA</string>
+    <string name="team_b">TeamB</string>
+    <string name="reset">reset</string>
+</resources>
